@@ -16,6 +16,17 @@ tags: 網站
 webComponent 讓每個人可以自行定義新的 html 元件，過去 html 主要用到的是 `<div>`, `<h1>`, `<li>` 等這些東西。在 webComponent 的框架下，你只要 import 別人的東西，就可以使用新的 html 元件。
 例如到 webComponent.org 下載了
 
+```
+<paper-dropdown-menu label="Dinosaurs">
+  <paper-listbox slot="dropdown-content" selected="1">
+    <paper-item>allosaurus</paper-item>
+    <paper-item>brontosaurus</paper-item>
+    <paper-item>carcharodontosaurus</paper-item>
+    <paper-item>diplodocus</paper-item>
+  </paper-listbox>
+</paper-dropdown-menu>
+```
+
 ## HelloWorld
 
 
@@ -96,5 +107,5 @@ P.S. 如果是 dom-repeat, dom-if 這種動態加入的，不會加到 `this.$` 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzU4MTEzMV19
+eyJoaXN0b3J5IjpbLTQzOTA2OTM3N119
 -->
