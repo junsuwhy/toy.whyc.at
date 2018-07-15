@@ -1,7 +1,8 @@
 
 ---
+layout: post
 title: Docker 建立 wordpress 的紀錄
-tags: Wordpress docker
+tags: [Wordpress, docker]
 description: 紀錄一下用 docker 建立 wordpress 的過程。
 ---
 
