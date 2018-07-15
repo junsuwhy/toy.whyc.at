@@ -1,7 +1,8 @@
 
 ---
 
-tags: Wordpress, docker
+tags: Wordpress
+tags: docker
 
 ---
 
