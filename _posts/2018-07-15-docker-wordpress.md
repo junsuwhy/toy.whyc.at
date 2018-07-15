@@ -1,12 +1,9 @@
 
 ---
-
-tags: Wordpress
-tags: docker
-
+title: Docker 建立 wordpress 的紀錄
+tags: Wordpress docker
+description: 紀錄一下用 docker 建立 wordpress 的過程。
 ---
-
-# Docker 建立 wordpress 的紀錄
 
 紀錄一下用 docker 建立 wordpress 的過程。下列是拿現用的站建立的，並沒有試過直接建一個全新的 wordpress ，需要的請再自行嘗試。
 
